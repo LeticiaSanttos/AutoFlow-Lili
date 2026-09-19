@@ -200,6 +200,12 @@ Para configurar o projeto, utilize o `env.example`, que contém apenas o nome da
 
 ---
 
+## 📹 Demonstração
+
+Youtube: https://youtu.be/A4hswZs7EaU
+
+---
+
 ## 📚 Referência
 
 O desenvolvimento deste projeto teve como base o exemplo de chatbot apresentado no curso **ChatGPT Prompt Engineering for Developers**, da DeepLearning.AI.
